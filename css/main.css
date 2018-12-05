@@ -1982,7 +1982,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd4ff;
+  background: #baf60e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3117,4 +3117,8 @@ ul.breadcrumb li+li:last-child {
   .post-body {
     text-align: justify;
   }
+}
+.author-qrcode {
+  margin: 20px;
+  text-align: center;
 }
